@@ -1,2 +1,2 @@
-# STM32F405_Timer_Interrupt
-Timer Interrupt implementation with STM32F4 microcontroller.
+# STM32F4_GPIO
+My first hello world project to program ARM Cortex microcontroller by implementing GPIO.
